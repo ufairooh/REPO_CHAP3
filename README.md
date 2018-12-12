@@ -1,2 +1,3 @@
-# REPO_CHAP3
-exercise chapter 3
+# project1
+# This is a sample README.md file
+# It contains the project1 description
